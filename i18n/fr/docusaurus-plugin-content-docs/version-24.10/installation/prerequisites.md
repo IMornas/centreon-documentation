@@ -9,7 +9,7 @@ Cette page vous donne des recommandations générales afin de déterminer la tai
 
 ## Architecture
 
-Utilisez d'abord les recommandations de la page [Architectures](./architectures.md#de-quel-type-darchitecture-avez-vous-besoin-) pour déterminer le type d'architcture dont vous avez besoin.
+Utilisez d'abord les recommandations de la page [Architectures](./architectures.md#de-quel-type-darchitecture-avez-vous-besoin-) pour déterminer le type d'architecture dont vous avez besoin.
 
 ## Caractéristiques des serveurs
 
@@ -363,4 +363,4 @@ Pour de grosses volumétries de données, contactez votre commercial Centreon.
 
 ## Flux réseau
 
-Si vous avez des pare-feu ou des équipements de sécurité en place, vérifiez le [tableau des flux réseau](./technical.md#tableaux-des-flux-réseau).
+Si vous avez des pare-feux ou des équipements de sécurité en place, vérifiez le [tableau des flux réseau](./technical.md#tableaux-des-flux-réseau).
